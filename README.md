@@ -23,4 +23,4 @@ A modern, responsive, and interactive web portfolio built with Laravel and React
 ### Steps to Run
 1. **Clone the repository:**
    git clone https://github.com/alyssadaus37-bit/Alyssa-Portfolio.git
- ]
+ 
